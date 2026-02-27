@@ -10,3 +10,5 @@ Interactive graph coloring solver using depth-first backtracking and degree-base
 
 ## Run
 Open `index.html` in a modern browser.
+
+Reviewability probe PR opened on 2026-02-27 for formal code review activity.
